@@ -1,5 +1,5 @@
 {
-    "name": "backpack/generators",
+    "name": "afzalsabbir/generators",
     "description": "Generate files for laravel projects",
     "keywords": [
         "generators",
@@ -8,7 +8,7 @@
         "request",
         "config"
     ],
-    "homepage": "https://github.com/laravel-backpack/generators",
+    "homepage": "https://github.com/afzalsabbir/generators",
     "license": "proprietary",
     "authors": [
         {
@@ -25,7 +25,7 @@
         }
     ],
     "require": {
-        "backpack/crud": "^4.1|^5.0"
+        "afzalsabbir/crud": "^4.1|^5.0"
     },
     "require-dev": {
         "phpunit/phpunit" : "^9.0||^7.0",
